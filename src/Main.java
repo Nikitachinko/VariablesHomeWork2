@@ -34,7 +34,7 @@ public class Main {
         float ff = 27.12f;
         long ll = 987678965549l;
         double dd = 2.786;
-        short ss = -159;
+        char ss = 159;
     }
 
     public static void task3() {
