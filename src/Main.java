@@ -45,7 +45,7 @@ public class Main {
         short paper = 480;
         int summ = lP + aS + eA;
         int p = paper / summ;
-        System.out.println(p);
+        System.out.println(p + " Листов бумаги");
     }
 
     public static void task4() {
